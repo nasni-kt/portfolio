@@ -26,8 +26,8 @@
     --main-color: #2892e3; 
 }
 .row .image img {
-    width: 350px;
-    height: 350px;
+    /* width: 350px;
+    height: 350px; */
     margin-left: 20px;
 }
 
