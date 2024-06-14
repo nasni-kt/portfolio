@@ -26,11 +26,11 @@
     --main-color: #2892e3; 
 }
 .row .image img {
-    background-color: blueviolet;
     width: 350px;
     height: 350px;
     margin-left: 20px;
 }
+
 section {
     display: flex;
     justify-content: center;
