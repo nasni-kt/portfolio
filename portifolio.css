@@ -195,11 +195,11 @@ span{
     background-color: var(--main-color);
 }
 
-.footer .social {
+/* .footer .social {
     /* text-align: center; */
     /* padding-bottom: 25px; */
     /* color: #191f36; */
-}
+/* } */ */
 
 .footer .social a {
     border: 1px solid var(--bg-color);
